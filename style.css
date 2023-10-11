@@ -16,7 +16,7 @@ body {
 	margin-top: 0%;
 	margin-bottom: 0%;
 	width: 32rem;
-	height: 28rem;
+	height: 26rem;
 	border: 3px solid #e4bd12;
 	padding: 10px;
 	text-align: center;
@@ -45,12 +45,12 @@ body {
 }
 
 .main a:link {
-	color: #000000;
+	color: #00FF00;
 	text-decoration: none;
 	/*border-left:1px solid #bbb;*/
 }
 .main a:visited {
-	color: #000000;
+	color: #00FF00;
 	text-decoration: none;
 }
 .main a:hover {
