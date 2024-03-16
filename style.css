@@ -16,7 +16,7 @@ body {
 	margin-top: 0%;
 	margin-bottom: 0%;
 	width: 32rem;
-	height: 28rem;
+	height: 48rem;
 	border: 3px solid #e4bd12;
 	padding: 10px;
 	text-align: center;
@@ -63,7 +63,7 @@ body {
 }
 
 .button {
-	background-color: #d67a12; /* Green */
+	background-color: #d67a12; /* Orange */
 	border: none;
 	color: white;
 	padding: 15px 15px;
@@ -71,6 +71,34 @@ body {
 	text-decoration: none;
 	display: inline-block;
 	font-size: 14px;
+	margin-right: 10px; 		/* Add margin to create space between buttons */
+	margin-bottom: 10px;		/* Add margin to create space between buttons */
+}
+
+.button2 {
+	background-color: #4d12d6; /* Purple */
+	border: none;
+	color: white;
+	padding: 10px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin-right: 10px; 		/* Add margin to create space between buttons */
+	margin-bottom: 10px;		/* Add margin to create space between buttons */
+}
+
+.button3 {
+	background-color: #ffffff; /* Purple */
+	border: none;
+	color: black;
+	padding: 2px 2px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin-right: 10px; 		/* Add margin to create space between buttons */
+	margin-bottom: 10px;		/* Add margin to create space between buttons */
 }
 
 .video {
