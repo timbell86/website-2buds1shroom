@@ -16,7 +16,7 @@ body {
 	margin-top: 0%;
 	margin-bottom: 0%;
 	width: 32rem;
-	height: 48rem;
+	height: 49rem;
 	border: 3px solid #e4bd12;
 	padding: 10px;
 	text-align: center;
@@ -66,19 +66,6 @@ body {
 	background-color: #d67a12; /* Orange */
 	border: none;
 	color: white;
-	padding: 15px 15px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 14px;
-	margin-right: 10px; 		/* Add margin to create space between buttons */
-	margin-bottom: 10px;		/* Add margin to create space between buttons */
-}
-
-.button2 {
-	background-color: #4d12d6; /* Purple */
-	border: none;
-	color: white;
 	padding: 10px 10px;
 	text-align: center;
 	text-decoration: none;
@@ -88,15 +75,41 @@ body {
 	margin-bottom: 10px;		/* Add margin to create space between buttons */
 }
 
-.button3 {
-	background-color: #ffffff; /* Purple */
+.button-spotify {
+	background-color: #06d450; /* Purple */
+	border: none;
+	color: white;
+	padding: 10px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+	margin-right: 10px; 		/* Add margin to create space between buttons */
+	margin-bottom: 10px;		/* Add margin to create space between buttons */
+}
+
+.button-discord {
+	background-color: #7289da; /* White */
+	border: none;
+	color: white;
+	padding: 10px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+	margin-right: 5px; 		/* Add margin to create space between buttons */
+	margin-bottom: 5px;		/* Add margin to create space between buttons */
+}
+
+.button-info {
+	background-color: #ffffff; /* White */
 	border: none;
 	color: black;
 	padding: 2px 2px;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 14px;
+	font-size: 10px;
 	margin-right: 10px; 		/* Add margin to create space between buttons */
 	margin-bottom: 10px;		/* Add margin to create space between buttons */
 }
