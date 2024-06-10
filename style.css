@@ -75,6 +75,19 @@ body {
 	margin-bottom: 10px;		/* Add margin to create space between buttons */
 }
 
+.button-youtube {
+	background-color: #FF0000; /* Red */
+	border: none;
+	color: white;
+	padding: 10px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin-right: 10px; 		/* Add margin to create space between buttons */
+	margin-bottom: 10px;		/* Add margin to create space between buttons */
+}
+
 .button-spotify {
 	background-color: #06d450; /* Purple */
 	border: none;
